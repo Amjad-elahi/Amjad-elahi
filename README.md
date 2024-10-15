@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello and Welcome to My GitHub! 👋
 
 <!--
 **Amjad-elahi/Amjad-elahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### I’m [Amjad](https://bind.link/@amjad-elahi), thrilled to have you here! I’m a coding enthusiast who loves to explore new technologies and create innovative projects.👩‍💻
+
+
+
+##### Thanks for visiting my profile!

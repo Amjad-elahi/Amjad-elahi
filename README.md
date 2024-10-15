@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 #### I’m [Amjad](https://bind.link/@amjad-elahi), thrilled to have you here! I’m a coding enthusiast who loves to explore new technologies and create innovative projects.👩‍💻
 
-
-
+<!--
 ##### Thanks for visiting my profile!
+-->
